@@ -1,0 +1,60 @@
+            body{
+                background-image: url(108-fon-dlya-sayta.png);
+                margin: 0px;
+    }
+
+            .meh{
+                font-family: 'Bangers', cursive;
+                font-size: 35px;
+                
+                }
+            
+            #content{
+                background-color:rgba(100, 155, 155, 0.10);
+                font-family: 'Comfortaa', cursive;
+                box-shadow: 0px 0px 1px 1px rgba(20, 20, 20, 0.30);
+                width: 985px;
+                height: 1600px;
+                border-radius: 15px;
+                margin-left: 230px;
+                margin-top:40px;
+                padding: 25px;
+
+            }
+            .outbox{
+                margin-top: -37px;;
+                position: fixed;
+                background-image:url(ant.JPG); 
+                width:200px;
+                height:671px;;
+                box-shadow: 0px 0px 2px 2px rgba(1, 10, 10, 0.60);
+            }   
+           
+           p{
+               font-family: 'Comfortaa', cursive;
+            }
+            
+            footer a{
+                text-decoration: none;
+                font-size: 13px;
+        }
+             #footer{
+                 margin-top: 30px;
+                 margin-left: 200px;
+                 padding:20px;
+                 width: 1045px;
+                 height: 30px;
+                 font-size: 15px;
+             }
+
+            ul{
+                list-style: none;
+        }
+
+
+
+
+
+
+
+
